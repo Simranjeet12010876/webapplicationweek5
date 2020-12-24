@@ -1,5 +1,4 @@
 <?php
-
 echo "<pre>\n";
 echo 'display_errors = ' . ini_get('display_errors') . "\n";
 
